@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- encoding:utf-8 -*-
 '''
     Syn flood program in python using raw sockets (Linux)
     
