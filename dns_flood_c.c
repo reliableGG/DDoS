@@ -1,4 +1,4 @@
-// code by yunshu(wustyunshu@hotmail.com, 2011-07-11. just for test, have fun.
+// code by yunshu(wustyunshu@hotmail.com, 2016-07-11. just for test, have fun.
 // you should change some codes for attacking.
  
 #include <stdio.h>
@@ -11,7 +11,8 @@
 #include <signal.h>
 #include <pthread.h>
 #include <errno.h>
- 
+#include <string.h> 
+
 typedef struct ip_hdr
 {
     unsigned char     h_verlen;
